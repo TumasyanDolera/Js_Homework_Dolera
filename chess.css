@@ -1,0 +1,208 @@
+tr,td {
+    border: 2px solid black;
+
+}
+
+td:hover {
+    opacity: 0.6;
+    transition: 1s;
+    cursor: pointer;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.content1 {
+    max-width: 800px;
+    border: 1px solid black;
+    padding: 40px;
+    margin: 0 auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdMDfw8C1GOYgzospGplF2GL1RDRPKY0Y7g&usqp=CAU);
+
+}
+
+.brown {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/vintage-grunge-paper-patterns-texture-old-blank-light-brown-background-close-up-vintage-grunge-paper-patterns-texture-old-blank-146155513.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    margin: 5px;
+    text-shadow: 12px 12px 10px brown;
+
+}
+
+h1:hover {
+    color: white;
+    transition: 2s;
+    cursor: pointer;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+td img {
+    width: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.light1 img {
+    width: 50%;
+    height: 80px;
+}
+
+.brown1 img {
+    width: 50%;
+    height: 80px;
+}
+
+.brown1 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light1 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light2 img {
+    width: 50%;
+    height: 80px;
+}
+
+.brown2 img {
+    width: 50%;
+    height: 80px;
+}
+
+.brown2 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light2 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light3 img {
+    width: 80%;
+    height: 80px;
+}
+
+.brown3 img {
+    width: 80%;
+    height: 80px;
+}
+
+.brown3 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light3 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light4 img {
+    width: 60%;
+    height: 80px;
+}
+
+.brown4 img {
+    width: 60%;
+    height: 80px;
+}
+
+.brown4 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light4 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light5 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown5 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown5 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light5 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light6 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown6 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown6 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light6 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light7 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown7 img {
+    width: 100%;
+    height: 80px;
+}
+
+.brown7 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light7 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
+
+.light8 img {
+    width: 80%;
+    height: 80px;
+}
+
+.brown8 img {
+    width: 80%;
+    height: 80px;
+}
+
+.brown8 {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=360);
+}
+
+.light8 {
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/52/41/light-brown-vintage-background-vector-22385241.jpg);
+}
